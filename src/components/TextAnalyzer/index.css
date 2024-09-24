@@ -6,14 +6,6 @@
   align-items: center;
 }
 
-.text-input {
-  border: 1px solid #ccc;
-  padding: 10px;
-  min-height: 200px;
-  margin-bottom: 10px;
-  width: 100%;
-}
-
 .statistics {
   margin-bottom: 10px;
   display: flex;
